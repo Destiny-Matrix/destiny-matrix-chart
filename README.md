@@ -85,3 +85,5 @@ The matrix provides insights into:
 - Results should be interpreted holistically
 - Personal intuition and wisdom should be applied when using the matrix
 - The matrix reveals potential and possibilities rather than fixed destiny
+
+[sourceforge destiny matrix](https://sourceforge.net/projects/destiny-matrix/)
