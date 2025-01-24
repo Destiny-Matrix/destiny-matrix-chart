@@ -86,4 +86,6 @@ The matrix provides insights into:
 - Personal intuition and wisdom should be applied when using the matrix
 - The matrix reveals potential and possibilities rather than fixed destiny
 
+## Related articles
 [sourceforge destiny matrix](https://sourceforge.net/projects/destiny-matrix/)
+[vocus article about destiny matrix](https://vocus.cc/article/67938d09fd89780001e357c2)
