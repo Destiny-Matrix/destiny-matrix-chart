@@ -90,3 +90,5 @@ The matrix provides insights into:
 [sourceforge destiny matrix](https://sourceforge.net/projects/destiny-matrix/)
 
 [vocus article about destiny matrix](https://vocus.cc/article/67938d09fd89780001e357c2)
+
+[lovable launch of Destiny Matrix](https://launched.lovable.app/destiny-matrix)
