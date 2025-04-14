@@ -92,3 +92,5 @@ The matrix provides insights into:
 [vocus article about destiny matrix](https://vocus.cc/article/67938d09fd89780001e357c2)
 
 [lovable launch of Destiny Matrix](https://launched.lovable.app/destiny-matrix)
+
+[youtube Channel](https://www.youtube.com/channel/UCJm3kEyjAjhMwTC2Vv-rRVw)
