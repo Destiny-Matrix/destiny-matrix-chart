@@ -1,7 +1,7 @@
-# Destiny Matrix Reference Guide
+# Destiny Matrix Calculator
 
-## How to Use
-- [Destiny Matrix Chart](https://destiny-matrix.cc/)
+## How to Use it Free！
+- [Destiny Matrix](https://destiny-matrix.cc/)
 
 
 ## What is Destiny Matrix?
