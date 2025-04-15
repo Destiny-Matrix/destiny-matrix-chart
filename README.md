@@ -94,3 +94,4 @@ The matrix provides insights into:
 [lovable launch of Destiny Matrix](https://launched.lovable.app/destiny-matrix)
 
 [youtube Channel](https://www.youtube.com/channel/UCJm3kEyjAjhMwTC2Vv-rRVw)
+[instagram](https://www.instagram.com/destiny_matrix_2025/)
