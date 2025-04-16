@@ -95,3 +95,4 @@ The matrix provides insights into:
 
 [youtube Channel](https://www.youtube.com/channel/UCJm3kEyjAjhMwTC2Vv-rRVw)
 [instagram](https://www.instagram.com/destiny_matrix_2025/)
+[substack](https://substack.com/@yxchen1994)
